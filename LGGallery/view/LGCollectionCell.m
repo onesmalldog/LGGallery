@@ -1,5 +1,5 @@
 
-//  Created by 东途 on 16/7/8.
+//  Created by lee on 16/7/8.
 //
 
 #import "LGCollectionCell.h"
